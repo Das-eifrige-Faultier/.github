@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+**🦥 Das eifrige Faultier**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 Irgendwelche zwei Brüder die ziemlich tolle Projekte erstellen
+
+👩‍💻 Klict euch einfach mal durch die repos durch
+
+🍿 Popcorn gibts nur im Kino
+
+🧙 Und Hexen nur in Büchern
